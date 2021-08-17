@@ -1,4 +1,4 @@
-# trainthetrainer_2
+# trainthetrainer_1
 
 20210817 <br>
 GitHub vs PyCharm (main.py) <br>
